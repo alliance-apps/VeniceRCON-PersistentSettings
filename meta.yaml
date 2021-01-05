@@ -1,0 +1,6 @@
+name: "PersistentSettings"
+description: "Persist configuration changes at server restart (no need to change startup.txt)"
+author: "cat24max <tim@allianceapps.de>"
+version: "1.0.0"
+backend: "VU"
+entry: "index.js"
